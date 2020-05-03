@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CPU-eagle-import)(type Legacy)(uri ${KIPRJMOD}/CPU-eagle-import.lib)(options "")(descr ""))
+  (lib (name CPU-cache)(type Legacy)(uri ${KIPRJMOD}/CPU-cache.lib)(options "")(descr ""))
+)

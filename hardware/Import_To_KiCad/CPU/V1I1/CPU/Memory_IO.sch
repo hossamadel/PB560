@@ -1,0 +1,2861 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 17335 11946
+encoding utf-8
+Sheet 3 8
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 11262 4275 0    10   ~ 0
+D[0..15]
+Wire Bus Line
+	3625 4488 3525 4588
+Text Label 3625 2788 0    10   ~ 0
+D[0..15]
+Text Label 2837 7700 0    10   ~ 0
+D[0..15]
+Text Label 9834 1959 0    10   ~ 0
+D[0..15]
+Text Label 11262 3038 0    10   ~ 0
+A[0..23]
+Text Label 7434 1709 0    10   ~ 0
+A[0..23]
+Wire Wire Line
+	12550 1050 12550 1350
+Wire Wire Line
+	12550 1350 12550 1413
+Wire Wire Line
+	12412 1350 12550 1350
+Connection ~ 12550 1350
+Text GLabel 12550 1050 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	11500 1963 11275 1963
+Wire Wire Line
+	11500 1763 11275 1763
+Wire Wire Line
+	11275 1763 11275 1675
+Wire Wire Line
+	11275 1963 11275 1763
+Connection ~ 11275 1763
+Text GLabel 11500 1963 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	13487 2863 13387 2863
+Wire Wire Line
+	13387 2863 13287 2863
+Wire Wire Line
+	13287 2863 13187 2863
+Wire Wire Line
+	13187 2863 13187 2700
+Wire Wire Line
+	13187 3013 13187 2863
+Wire Wire Line
+	13287 3013 13287 2863
+Wire Wire Line
+	13387 3013 13387 2863
+Wire Wire Line
+	13487 3013 13487 2863
+Connection ~ 13187 2863
+Connection ~ 13287 2863
+Connection ~ 13387 2863
+Text GLabel 13487 2863 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	13600 3763 13600 3788
+Text GLabel 13600 3763 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	14550 5263 14550 5163
+Text GLabel 14550 5263 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	4625 1350 4625 1700
+Wire Wire Line
+	4625 1700 4625 1788
+Wire Wire Line
+	4325 1700 4625 1700
+Wire Wire Line
+	4625 1700 4725 1700
+Wire Wire Line
+	4725 1700 4725 1788
+Wire Wire Line
+	4725 1700 4825 1700
+Wire Wire Line
+	4825 1700 4825 1788
+Wire Wire Line
+	4825 1700 4925 1700
+Wire Wire Line
+	4925 1700 4925 1788
+Wire Wire Line
+	4925 1700 5025 1700
+Connection ~ 4625 1700
+Connection ~ 4725 1700
+Connection ~ 4825 1700
+Connection ~ 4925 1700
+Text GLabel 4625 1350 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	3462 6900 3362 6900
+Wire Wire Line
+	3362 6900 3362 7000
+Wire Wire Line
+	3362 6900 3362 6688
+Wire Wire Line
+	3462 6900 3462 7000
+Wire Wire Line
+	3500 6900 3462 6900
+Connection ~ 3362 6900
+Connection ~ 3462 6900
+Text GLabel 3462 6900 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	10912 6488 10912 6725
+Wire Wire Line
+	10912 6725 10912 6875
+Wire Wire Line
+	10812 6725 10912 6725
+Wire Wire Line
+	11212 7375 11362 7375
+Wire Wire Line
+	11362 6725 10912 6725
+Wire Wire Line
+	11362 7375 11362 6725
+Wire Wire Line
+	11362 7375 11362 7675
+Wire Wire Line
+	11362 7675 11212 7675
+Connection ~ 10912 6725
+Connection ~ 11362 7375
+Text GLabel 10912 6488 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	2162 1338 2162 1425
+Text GLabel 2162 1338 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	3300 1325 3300 1713
+Wire Wire Line
+	3300 1713 3300 1938
+Wire Wire Line
+	3250 1713 3300 1713
+Connection ~ 3300 1713
+Text GLabel 3300 1325 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	8884 1509 8884 1309
+Wire Wire Line
+	8684 1309 8884 1309
+Wire Wire Line
+	8884 1309 8884 1209
+Connection ~ 8884 1309
+Text GLabel 8884 1509 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	8684 4409 8684 5371
+Text GLabel 8684 4409 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	2187 7613 2187 7501
+Text GLabel 2187 7613 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	4325 4888 4425 4888
+Wire Wire Line
+	4525 4888 4425 4888
+Wire Wire Line
+	4525 4888 4625 4888
+Wire Wire Line
+	4625 4888 4725 4888
+Wire Wire Line
+	4725 4888 4825 4888
+Wire Wire Line
+	4825 4888 4925 4888
+Wire Wire Line
+	4925 4888 5025 4888
+Wire Wire Line
+	4625 4888 4625 5088
+Connection ~ 4425 4888
+Connection ~ 4525 4888
+Connection ~ 4625 4888
+Connection ~ 4725 4888
+Connection ~ 4825 4888
+Connection ~ 4925 4888
+Text GLabel 4325 4888 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3925 1350 3925 1700
+Wire Wire Line
+	3925 1700 4125 1700
+Wire Wire Line
+	4025 2388 3925 2388
+Wire Wire Line
+	3925 2388 3925 2188
+Wire Wire Line
+	3925 2188 4025 2188
+Wire Wire Line
+	3925 1700 3925 2188
+Connection ~ 3925 1700
+Connection ~ 3925 2188
+Text GLabel 3925 1350 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5225 1700 5350 1700
+Text GLabel 5225 1700 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	12100 1100 12100 1350
+Wire Wire Line
+	12100 1350 12100 1413
+Wire Wire Line
+	12212 1350 12100 1350
+Connection ~ 12100 1350
+Text GLabel 12100 1100 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14300 1563 14387 1563
+Wire Wire Line
+	14387 1563 14387 1763
+Wire Wire Line
+	14387 1763 14387 1963
+Wire Wire Line
+	14387 1963 14300 1963
+Wire Wire Line
+	14425 1763 14387 1763
+Connection ~ 14387 1763
+Text GLabel 14300 1563 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	11500 5163 11262 5163
+Wire Wire Line
+	11262 5163 11262 5350
+Wire Wire Line
+	11500 4663 11262 4663
+Wire Wire Line
+	11262 4663 11262 5163
+Connection ~ 11262 5163
+Text GLabel 11500 5163 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	11500 2263 11175 2263
+Text GLabel 11500 2263 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14400 4713 14400 4738
+Text GLabel 14400 4713 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14250 6200 14250 6100
+Text GLabel 14250 6200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2862 9500 2862 9300
+Wire Wire Line
+	2862 9300 3062 9300
+Wire Wire Line
+	2862 9300 2862 9200
+Wire Wire Line
+	3062 9200 2862 9200
+Wire Wire Line
+	2862 9200 2862 9100
+Wire Wire Line
+	2862 9100 3062 9100
+Connection ~ 2862 9300
+Connection ~ 2862 9200
+Text GLabel 2862 9500 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	4662 9900 4662 10000
+Wire Wire Line
+	4662 10000 4662 10100
+Wire Wire Line
+	4562 9900 4562 10000
+Wire Wire Line
+	4562 10000 4662 10000
+Connection ~ 4662 10000
+Text GLabel 4662 9900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	7800 7900 7800 8000
+Wire Wire Line
+	7800 8000 7800 8100
+Wire Wire Line
+	7800 8100 7800 8200
+Wire Wire Line
+	7800 8200 7800 8300
+Wire Wire Line
+	7800 8300 7800 8400
+Wire Wire Line
+	7800 8400 7800 8500
+Wire Wire Line
+	7800 8500 7800 8600
+Wire Wire Line
+	7800 8600 7800 8700
+Wire Wire Line
+	7800 8700 7800 8800
+Wire Wire Line
+	7800 8800 7800 8900
+Wire Wire Line
+	7800 8900 7800 9000
+Wire Wire Line
+	7800 9000 7800 9100
+Wire Wire Line
+	7800 9100 7800 9200
+Wire Wire Line
+	7800 9200 7800 9300
+Wire Wire Line
+	7800 9300 7800 9400
+Wire Wire Line
+	7800 9400 7800 9500
+Wire Wire Line
+	7800 9500 7800 9600
+Wire Wire Line
+	7800 9600 7800 9700
+Wire Wire Line
+	7800 9700 7800 9800
+Wire Wire Line
+	7800 9800 7800 9900
+Wire Wire Line
+	7800 9900 7800 10000
+Wire Wire Line
+	7800 10000 7800 10100
+Wire Wire Line
+	7800 10100 7800 10200
+Wire Wire Line
+	7700 10100 7800 10100
+Wire Wire Line
+	7700 10000 7800 10000
+Wire Wire Line
+	7700 9900 7800 9900
+Wire Wire Line
+	7800 9800 7700 9800
+Wire Wire Line
+	7700 9700 7800 9700
+Wire Wire Line
+	7800 9600 7700 9600
+Wire Wire Line
+	7700 9500 7800 9500
+Wire Wire Line
+	7800 9400 7700 9400
+Wire Wire Line
+	7700 9300 7800 9300
+Wire Wire Line
+	7800 9200 7700 9200
+Wire Wire Line
+	7700 9100 7800 9100
+Wire Wire Line
+	7800 9000 7700 9000
+Wire Wire Line
+	7700 8900 7800 8900
+Wire Wire Line
+	7700 8800 7800 8800
+Wire Wire Line
+	7700 8700 7800 8700
+Wire Wire Line
+	7700 8600 7800 8600
+Wire Wire Line
+	7700 8500 7800 8500
+Wire Wire Line
+	7700 8400 7800 8400
+Wire Wire Line
+	7700 8300 7800 8300
+Wire Wire Line
+	7800 8200 7700 8200
+Wire Wire Line
+	7700 8100 7800 8100
+Wire Wire Line
+	7800 8000 7700 8000
+Wire Wire Line
+	7700 7900 7800 7900
+Connection ~ 7800 10100
+Connection ~ 7800 10000
+Connection ~ 7800 9900
+Connection ~ 7800 9800
+Connection ~ 7800 9700
+Connection ~ 7800 9600
+Connection ~ 7800 9500
+Connection ~ 7800 9400
+Connection ~ 7800 9300
+Connection ~ 7800 9200
+Connection ~ 7800 9100
+Connection ~ 7800 9000
+Connection ~ 7800 8900
+Connection ~ 7800 8800
+Connection ~ 7800 8700
+Connection ~ 7800 8600
+Connection ~ 7800 8500
+Connection ~ 7800 8400
+Connection ~ 7800 8300
+Connection ~ 7800 8200
+Connection ~ 7800 8100
+Connection ~ 7800 8000
+Text GLabel 7800 7900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	6600 6600 6600 6800
+Wire Wire Line
+	6600 6800 6600 7100
+Wire Wire Line
+	6700 7100 6700 6800
+Wire Wire Line
+	6700 6800 6600 6800
+Wire Wire Line
+	6700 6800 6800 6800
+Connection ~ 6600 6800
+Connection ~ 6700 6800
+Text GLabel 6600 6600 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	10512 6513 10512 6725
+Wire Wire Line
+	10512 6725 10512 6875
+Wire Wire Line
+	10612 6725 10512 6725
+Connection ~ 10512 6725
+Text GLabel 10512 6513 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3762 6900 3762 7000
+Wire Wire Line
+	3762 6900 3862 6900
+Wire Wire Line
+	3862 6900 3862 7000
+Wire Wire Line
+	3862 6900 3962 6900
+Wire Wire Line
+	3962 6900 3962 7000
+Wire Wire Line
+	3962 6900 4062 6900
+Wire Wire Line
+	4062 6900 4062 7000
+Wire Wire Line
+	4062 6900 4162 6900
+Wire Wire Line
+	4162 6900 4162 7000
+Wire Wire Line
+	4162 6900 4262 6900
+Wire Wire Line
+	4262 6900 4262 7000
+Wire Wire Line
+	4262 6900 4362 6900
+Wire Wire Line
+	4362 6900 4362 7000
+Wire Wire Line
+	4362 6900 4462 6900
+Wire Wire Line
+	4462 6900 4462 7000
+Wire Wire Line
+	3700 6900 3762 6900
+Wire Wire Line
+	4525 6900 4462 6900
+Wire Wire Line
+	3762 6700 3762 6900
+Connection ~ 3762 6900
+Connection ~ 3862 6900
+Connection ~ 3962 6900
+Connection ~ 4062 6900
+Connection ~ 4162 6900
+Connection ~ 4262 6900
+Connection ~ 4362 6900
+Connection ~ 4462 6900
+Text GLabel 3762 6900 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	1862 1350 1862 1425
+Text GLabel 1862 1350 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	3000 1350 3000 1713
+Wire Wire Line
+	3000 1713 3000 1938
+Wire Wire Line
+	3050 1713 3000 1713
+Connection ~ 3000 1713
+Text GLabel 3000 1350 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	1887 7500 1887 7613
+Text GLabel 1887 7500 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	8384 1509 8384 1309
+Wire Wire Line
+	8284 1209 8284 1309
+Wire Wire Line
+	8284 1309 8284 1509
+Wire Wire Line
+	8384 1309 8284 1309
+Wire Wire Line
+	8484 1309 8384 1309
+Connection ~ 8284 1309
+Connection ~ 8384 1309
+Text GLabel 8384 1509 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	5325 3088 5625 3088
+Text Label 5625 3088 0    56   ~ 0
+CE/-EEP
+Wire Wire Line
+	10112 7775 9549 7775
+Text Label 9549 7775 0    56   ~ 0
+CE/-EEP
+Wire Wire Line
+	14287 5263 14287 5163
+Text GLabel 14287 5263 0    10   BiDi ~ 0
++3,3V
+Wire Wire Line
+	4762 6900 4862 6900
+Wire Wire Line
+	4862 6900 4862 7000
+Wire Wire Line
+	4762 7000 4762 6900
+Wire Wire Line
+	4762 6900 4762 6651
+Wire Wire Line
+	4725 6900 4762 6900
+Connection ~ 4762 6900
+Text GLabel 4762 6900 0    10   BiDi ~ 0
++3,3V
+Wire Wire Line
+	7000 6800 7200 6800
+Wire Wire Line
+	7200 6800 7200 7100
+Wire Wire Line
+	7300 6600 7300 6800
+Wire Wire Line
+	7300 6800 7300 7100
+Wire Wire Line
+	7200 6800 7300 6800
+Connection ~ 7200 6800
+Connection ~ 7300 6800
+Text GLabel 7000 6800 0    10   BiDi ~ 0
++3,3V
+Wire Wire Line
+	6200 8800 6162 8800
+Wire Wire Line
+	6162 8800 6162 8900
+Wire Wire Line
+	6162 8900 6200 8900
+Wire Wire Line
+	6200 9000 6162 9000
+Wire Wire Line
+	6162 9000 6162 8900
+Wire Wire Line
+	6162 9000 6062 9000
+Connection ~ 6162 8900
+Connection ~ 6162 9000
+Text GLabel 6200 8800 0    10   BiDi ~ 0
++3,3V
+Wire Wire Line
+	6087 10500 6200 10500
+Text GLabel 6087 10500 0    10   BiDi ~ 0
++3,3V
+Wire Wire Line
+	11500 3263 11312 3263
+Wire Wire Line
+	11312 3263 11362 3313
+Text GLabel 11362 3313 2    56   BiDi ~ 0
+D0
+Wire Wire Line
+	4025 2788 3725 2788
+Text GLabel 3725 2788 2    56   BiDi ~ 0
+D0
+Wire Wire Line
+	3062 7700 2937 7700
+Text GLabel 2937 7700 2    56   BiDi ~ 0
+D0
+Wire Wire Line
+	9384 2209 9734 2209
+Text GLabel 9559 2209 2    56   BiDi ~ 0
+D0
+Wire Wire Line
+	11500 4063 11312 4063
+Wire Wire Line
+	11312 4063 11362 4113
+Text GLabel 11362 4113 2    56   BiDi ~ 0
+D5
+Wire Wire Line
+	4025 3288 3725 3288
+Text GLabel 3725 3288 2    56   BiDi ~ 0
+D5
+Wire Wire Line
+	3062 8200 2937 8200
+Text GLabel 2937 8200 2    56   BiDi ~ 0
+D5
+Wire Wire Line
+	9384 2709 9734 2709
+Text GLabel 9559 2709 2    56   BiDi ~ 0
+D5
+Wire Wire Line
+	11500 4163 11312 4163
+Wire Wire Line
+	11312 4163 11362 4213
+Text GLabel 11362 4213 2    56   BiDi ~ 0
+D6
+Wire Wire Line
+	4025 3388 3725 3388
+Text GLabel 3725 3388 2    56   BiDi ~ 0
+D6
+Wire Wire Line
+	3062 8300 2937 8300
+Text GLabel 2937 8300 2    56   BiDi ~ 0
+D6
+Wire Wire Line
+	9384 2809 9734 2809
+Text GLabel 9559 2809 2    56   BiDi ~ 0
+D6
+Wire Wire Line
+	11500 4263 11312 4263
+Wire Wire Line
+	11312 4263 11362 4313
+Text GLabel 11362 4313 2    56   BiDi ~ 0
+D7
+Wire Wire Line
+	4025 3488 3725 3488
+Text GLabel 3725 3488 2    56   BiDi ~ 0
+D7
+Wire Wire Line
+	3062 8400 2937 8400
+Text GLabel 2937 8400 2    56   BiDi ~ 0
+D7
+Wire Wire Line
+	9384 2909 9734 2909
+Text GLabel 9559 2909 2    56   BiDi ~ 0
+D7
+Wire Wire Line
+	11500 3363 11312 3363
+Wire Wire Line
+	11312 3363 11362 3413
+Text GLabel 11362 3413 2    56   BiDi ~ 0
+D1
+Wire Wire Line
+	4025 2888 3725 2888
+Text GLabel 3725 2888 2    56   BiDi ~ 0
+D1
+Wire Wire Line
+	3062 7800 2937 7800
+Text GLabel 2937 7800 2    56   BiDi ~ 0
+D1
+Wire Wire Line
+	9384 2309 9734 2309
+Text GLabel 9559 2309 2    56   BiDi ~ 0
+D1
+Wire Wire Line
+	11500 3563 11312 3563
+Wire Wire Line
+	11312 3563 11362 3613
+Text GLabel 11362 3613 2    56   BiDi ~ 0
+D2
+Wire Wire Line
+	4025 2988 3725 2988
+Text GLabel 3725 2988 2    56   BiDi ~ 0
+D2
+Wire Wire Line
+	3062 7900 2937 7900
+Text GLabel 2937 7900 2    56   BiDi ~ 0
+D2
+Wire Wire Line
+	9384 2409 9734 2409
+Text GLabel 9559 2409 2    56   BiDi ~ 0
+D2
+Wire Wire Line
+	11500 3663 11312 3663
+Wire Wire Line
+	11312 3663 11362 3713
+Text GLabel 11362 3713 2    56   BiDi ~ 0
+D3
+Wire Wire Line
+	4025 3088 3725 3088
+Text GLabel 3725 3088 2    56   BiDi ~ 0
+D3
+Wire Wire Line
+	3062 8000 2937 8000
+Text GLabel 2937 8000 2    56   BiDi ~ 0
+D3
+Wire Wire Line
+	9384 2509 9734 2509
+Text GLabel 9559 2509 2    56   BiDi ~ 0
+D3
+Wire Wire Line
+	11500 3863 11312 3863
+Wire Wire Line
+	11312 3863 11362 3913
+Text GLabel 11362 3913 2    56   BiDi ~ 0
+D4
+Wire Wire Line
+	4025 3188 3725 3188
+Text GLabel 3725 3188 2    56   BiDi ~ 0
+D4
+Wire Wire Line
+	3062 8100 2937 8100
+Text GLabel 2937 8100 2    56   BiDi ~ 0
+D4
+Wire Wire Line
+	9384 2609 9734 2609
+Text GLabel 9559 2609 2    56   BiDi ~ 0
+D4
+Wire Wire Line
+	11500 4563 11137 4563
+Text GLabel 11137 4563 2    50   BiDi ~ 0
+RD/
+Wire Wire Line
+	1425 8700 3062 8700
+Text GLabel 1425 8700 2    56   BiDi ~ 0
+RD/
+Wire Wire Line
+	8384 4409 8384 4759
+Text GLabel 8384 4759 3    56   BiDi ~ 0
+RD/
+Wire Wire Line
+	1450 1875 1562 1875
+Text GLabel 1450 1875 2    56   BiDi ~ 0
+WR/
+Wire Wire Line
+	11500 4963 11137 4963
+Text GLabel 11137 4963 2    50   BiDi ~ 0
+WR/
+Wire Wire Line
+	1425 8800 3062 8800
+Text GLabel 1425 8800 2    56   BiDi ~ 0
+WR/
+Wire Wire Line
+	8484 4409 8484 4771
+Text GLabel 8484 4771 3    56   BiDi ~ 0
+WR/
+Wire Wire Line
+	1675 9000 3062 9000
+Text GLabel 1675 9000 2    56   BiDi ~ 0
+CMD_ME1
+Wire Wire Line
+	5325 2788 5625 2788
+Text GLabel 5625 2788 2    56   BiDi ~ 0
+LED-VENTIL
+Wire Wire Line
+	5325 2888 5625 2888
+Text GLabel 5625 2888 2    56   BiDi ~ 0
+LED-O2
+Wire Wire Line
+	1450 2538 2700 2538
+Text GLabel 1450 2538 2    56   BiDi ~ 0
+A23
+Wire Wire Line
+	1425 8213 1587 8213
+Text GLabel 1425 8213 2    56   BiDi ~ 0
+A23
+Wire Wire Line
+	4025 2288 3825 2288
+Wire Wire Line
+	3825 2288 3825 2388
+Wire Wire Line
+	3825 2388 3825 2488
+Wire Wire Line
+	3825 2488 4025 2488
+Wire Wire Line
+	3600 2388 3825 2388
+Connection ~ 3825 2388
+Wire Wire Line
+	13050 1813 13175 1813
+Wire Wire Line
+	13175 1813 13175 1563
+Wire Wire Line
+	13175 1563 13550 1563
+Wire Wire Line
+	13550 1563 13762 1563
+Wire Wire Line
+	13762 1563 14100 1563
+Wire Wire Line
+	13762 1650 13762 1563
+Connection ~ 13550 1563
+Connection ~ 13762 1563
+Wire Wire Line
+	13487 1963 13550 1963
+Wire Wire Line
+	13550 1963 13762 1963
+Wire Wire Line
+	13762 1963 14100 1963
+Wire Wire Line
+	13762 1850 13762 1963
+Connection ~ 13550 1963
+Connection ~ 13762 1963
+Wire Wire Line
+	13050 1963 13087 1963
+Wire Wire Line
+	13050 2213 13162 2213
+Wire Wire Line
+	13162 2213 13162 2413
+Wire Wire Line
+	13162 2413 13050 2413
+Wire Wire Line
+	11500 2713 11312 2713
+Wire Wire Line
+	11312 2713 11362 2763
+Text GLabel 11362 2763 2    56   BiDi ~ 0
+A0
+Wire Wire Line
+	11500 2913 11312 2913
+Wire Wire Line
+	11312 2913 11362 2963
+Text GLabel 11362 2963 2    56   BiDi ~ 0
+A1
+Wire Wire Line
+	7784 1709 7534 1709
+Text GLabel 7534 1709 2    56   BiDi ~ 0
+A1
+Wire Wire Line
+	11500 3013 11312 3013
+Wire Wire Line
+	11312 3013 11362 3063
+Text GLabel 11362 3063 2    56   BiDi ~ 0
+A2
+Wire Wire Line
+	7784 1809 7534 1809
+Text GLabel 7534 1809 2    56   BiDi ~ 0
+A2
+Wire Wire Line
+	11500 2063 10987 2063
+Text GLabel 10987 2063 0    56   BiDi ~ 0
+CS3/
+Wire Wire Line
+	11500 2563 11225 2563
+Text GLabel 11225 2563 2    56   BiDi ~ 0
+RESET
+Wire Wire Line
+	13800 4263 13600 4263
+Wire Wire Line
+	13600 4188 13600 4263
+Wire Wire Line
+	13050 4263 13600 4263
+Connection ~ 13600 4263
+Wire Wire Line
+	11500 2463 11225 2463
+Text GLabel 11225 2463 2    56   BiDi ~ 0
+IRQ-UART
+Wire Wire Line
+	13050 3463 13187 3463
+Wire Wire Line
+	13187 3463 13187 3400
+Wire Wire Line
+	13050 3663 13287 3663
+Wire Wire Line
+	13287 3663 13287 3400
+Wire Wire Line
+	13050 3763 13387 3763
+Wire Wire Line
+	13387 3763 13387 3400
+Wire Wire Line
+	13050 4013 13487 4013
+Wire Wire Line
+	13487 4013 13487 3400
+Wire Wire Line
+	13050 4563 13775 4563
+Wire Wire Line
+	13775 4563 13775 6650
+Wire Wire Line
+	13775 6650 13950 6650
+Wire Wire Line
+	15325 6150 15325 6000
+Wire Wire Line
+	15325 6000 14550 6000
+Wire Wire Line
+	14550 6000 14550 6200
+Wire Wire Line
+	14550 5663 14550 5825
+Wire Wire Line
+	14550 5825 14287 5825
+Wire Wire Line
+	14287 5825 14287 5663
+Wire Wire Line
+	14287 5825 14100 5825
+Wire Wire Line
+	14100 5825 14100 4713
+Wire Wire Line
+	14550 6000 14550 5825
+Wire Wire Line
+	15325 6000 15462 6000
+Connection ~ 14287 5825
+Connection ~ 14550 6000
+Connection ~ 14550 5825
+Connection ~ 15325 6000
+Text GLabel 15325 6150 2    56   BiDi ~ 0
+SUPPLY-AL-RP
+Wire Wire Line
+	14850 6650 15325 6650
+Wire Wire Line
+	15325 6650 15462 6650
+Wire Wire Line
+	15325 6550 15325 6650
+Connection ~ 15325 6650
+Text GLabel 15462 6650 2    56   BiDi ~ 0
+TX-AL-RP
+Wire Wire Line
+	14700 4263 15012 4263
+Text GLabel 15012 4263 2    56   BiDi ~ 0
+RX-AL-RP
+Wire Wire Line
+	1587 7863 1425 7863
+Text GLabel 1425 7863 2    56   BiDi ~ 0
+CS0/
+Wire Wire Line
+	5162 7700 6200 7700
+Wire Wire Line
+	6200 7800 5162 7800
+Wire Wire Line
+	5162 7900 6200 7900
+Wire Wire Line
+	6200 8000 5162 8000
+Wire Wire Line
+	5162 8100 6200 8100
+Wire Wire Line
+	6200 8200 5162 8200
+Wire Wire Line
+	5162 8300 6200 8300
+Wire Wire Line
+	6200 8400 5162 8400
+Wire Wire Line
+	5162 8800 5362 8800
+Wire Wire Line
+	5362 8800 5362 10400
+Wire Wire Line
+	5362 10400 3562 10400
+Wire Wire Line
+	3562 10400 3562 9900
+Wire Wire Line
+	5662 8800 5362 8800
+Wire Wire Line
+	6200 9900 5662 9900
+Wire Wire Line
+	5662 9900 5662 8800
+Connection ~ 5362 8800
+Wire Wire Line
+	5837 9300 5837 10600
+Wire Wire Line
+	5837 10600 5562 10600
+Wire Wire Line
+	6200 9300 5837 9300
+Text GLabel 5837 9950 2    56   BiDi ~ 0
+BUSY-ME1
+Wire Wire Line
+	5325 3288 5625 3288
+Text GLabel 5625 3288 2    56   BiDi ~ 0
+CE/-RTC2
+Wire Wire Line
+	10112 7375 10037 7375
+Text GLabel 10037 7375 2    56   BiDi ~ 0
+MRST-SPI-0_E
+Wire Wire Line
+	10112 7175 10037 7175
+Text GLabel 10037 7175 2    56   BiDi ~ 0
+MTSR-SPI-0
+Wire Wire Line
+	10112 7575 10037 7575
+Text GLabel 10037 7575 2    56   BiDi ~ 0
+SCLK-SPI-0
+Wire Wire Line
+	5325 3688 5625 3688
+Text GLabel 5625 3688 2    56   BiDi ~ 0
+CE-SPI-USB
+Wire Wire Line
+	5325 3788 5625 3788
+Text GLabel 5625 3788 2    56   BiDi ~ 0
+CE-SPI-PIC
+Wire Wire Line
+	4025 3588 3725 3588
+Text GLabel 3725 3588 2    56   BiDi ~ 0
+D8
+Wire Wire Line
+	9384 3009 9734 3009
+Text GLabel 9559 3009 2    56   BiDi ~ 0
+D8
+Wire Wire Line
+	4025 3688 3725 3688
+Text GLabel 3725 3688 2    56   BiDi ~ 0
+D9
+Wire Wire Line
+	9384 3109 9734 3109
+Text GLabel 9559 3109 2    56   BiDi ~ 0
+D9
+Wire Wire Line
+	4025 3788 3725 3788
+Text GLabel 3725 3788 2    56   BiDi ~ 0
+D10
+Wire Wire Line
+	9384 3209 9734 3209
+Text GLabel 9559 3209 2    56   BiDi ~ 0
+D10
+Wire Wire Line
+	4025 3888 3725 3888
+Text GLabel 3725 3888 2    56   BiDi ~ 0
+D11
+Wire Wire Line
+	9384 3309 9734 3309
+Text GLabel 9559 3309 2    56   BiDi ~ 0
+D11
+Wire Wire Line
+	4025 3988 3725 3988
+Text GLabel 3725 3988 2    56   BiDi ~ 0
+D12
+Wire Wire Line
+	9384 3409 9734 3409
+Text GLabel 9559 3409 2    56   BiDi ~ 0
+D12
+Wire Wire Line
+	4025 4088 3725 4088
+Text GLabel 3725 4088 2    56   BiDi ~ 0
+D13
+Wire Wire Line
+	9384 3509 9734 3509
+Text GLabel 9559 3509 2    56   BiDi ~ 0
+D13
+Wire Wire Line
+	4025 4188 3725 4188
+Text GLabel 3725 4188 2    56   BiDi ~ 0
+D14
+Wire Wire Line
+	9384 3609 9734 3609
+Text GLabel 9559 3609 2    56   BiDi ~ 0
+D14
+Wire Wire Line
+	4025 4288 3725 4288
+Text GLabel 3725 4288 2    56   BiDi ~ 0
+D15
+Wire Wire Line
+	9384 3709 9734 3709
+Text GLabel 9559 3709 2    56   BiDi ~ 0
+D15
+Wire Wire Line
+	5325 3188 5625 3188
+Text GLabel 5625 3188 2    56   BiDi ~ 0
+CE-RTC1
+Wire Wire Line
+	5325 3488 5625 3488
+Text GLabel 5625 3488 2    56   BiDi ~ 0
+CE/-PROX-PRES-SENS
+Wire Wire Line
+	5325 3388 5625 3388
+Text GLabel 5625 3388 2    56   BiDi ~ 0
+CE/-INT-PRES-SENS
+Wire Wire Line
+	5325 3588 5625 3588
+Text GLabel 5625 3588 2    56   BiDi ~ 0
+CE/-VALV-PRES-SENS
+Wire Wire Line
+	5325 3888 5625 3888
+Text GLabel 5625 3888 2    56   BiDi ~ 0
+CE/-FLOW-INSP-SENS
+Wire Wire Line
+	5325 3988 5625 3988
+Text GLabel 5625 3988 2    56   BiDi ~ 0
+CE/-FLOW-EXP-SENS
+Wire Wire Line
+	5162 8600 5262 8600
+Wire Wire Line
+	5262 8600 5262 10300
+Wire Wire Line
+	5262 10300 3662 10300
+Wire Wire Line
+	3662 10300 3662 9900
+Wire Wire Line
+	5862 8600 5262 8600
+Wire Wire Line
+	6200 8700 5862 8700
+Wire Wire Line
+	5862 8700 5862 8600
+Connection ~ 5262 8600
+Wire Wire Line
+	5162 8700 5762 8700
+Wire Wire Line
+	5762 8700 5762 10200
+Wire Wire Line
+	5762 10200 6200 10200
+Wire Wire Line
+	5162 8900 5562 8900
+Wire Wire Line
+	5562 8900 5562 10000
+Wire Wire Line
+	5562 10000 6200 10000
+Wire Wire Line
+	5162 9000 5462 9000
+Wire Wire Line
+	5462 9000 5462 10100
+Wire Wire Line
+	5462 10100 6200 10100
+Wire Wire Line
+	2462 1875 2700 1875
+Wire Wire Line
+	2700 1875 2700 2188
+Wire Wire Line
+	3062 8600 2587 8600
+Wire Wire Line
+	2587 8600 2587 8063
+Wire Wire Line
+	2587 8063 2487 8063
+Wire Wire Line
+	7784 1909 7534 1909
+Text GLabel 7534 1909 2    56   BiDi ~ 0
+A3
+Wire Wire Line
+	7784 2009 7534 2009
+Text GLabel 7534 2009 2    56   BiDi ~ 0
+A4
+Wire Wire Line
+	7784 2109 7534 2109
+Text GLabel 7534 2109 2    56   BiDi ~ 0
+A5
+Wire Wire Line
+	7784 2209 7534 2209
+Text GLabel 7534 2209 2    56   BiDi ~ 0
+A6
+Wire Wire Line
+	7784 2309 7534 2309
+Text GLabel 7534 2309 2    56   BiDi ~ 0
+A7
+Wire Wire Line
+	7784 2409 7534 2409
+Text GLabel 7534 2409 2    56   BiDi ~ 0
+A8
+Wire Wire Line
+	7784 2509 7534 2509
+Text GLabel 7534 2509 2    56   BiDi ~ 0
+A9
+Wire Wire Line
+	7784 2609 7534 2609
+Text GLabel 7534 2609 2    56   BiDi ~ 0
+A10
+Wire Wire Line
+	7784 2709 7534 2709
+Text GLabel 7534 2709 2    56   BiDi ~ 0
+A11
+Wire Wire Line
+	7784 2809 7534 2809
+Text GLabel 7534 2809 2    56   BiDi ~ 0
+A12
+Wire Wire Line
+	7784 2909 7534 2909
+Text GLabel 7534 2909 2    56   BiDi ~ 0
+A13
+Wire Wire Line
+	7784 3109 7534 3109
+Text GLabel 7534 3109 2    56   BiDi ~ 0
+A15
+Wire Wire Line
+	7784 3009 7534 3009
+Text GLabel 7534 3009 2    56   BiDi ~ 0
+A14
+Wire Wire Line
+	7784 3209 7534 3209
+Text GLabel 7534 3209 2    56   BiDi ~ 0
+A16
+Wire Wire Line
+	7784 3309 7534 3309
+Text GLabel 7534 3309 2    56   BiDi ~ 0
+A17
+Wire Wire Line
+	7784 3409 7534 3409
+Text GLabel 7534 3409 2    56   BiDi ~ 0
+A18
+Wire Wire Line
+	8284 4409 8284 4759
+Text GLabel 8284 4759 3    56   BiDi ~ 0
+CS1/
+Wire Wire Line
+	8584 4409 8584 4509
+Text GLabel 8584 4509 3    56   BiDi ~ 0
+RESET/
+Wire Wire Line
+	7784 3509 7534 3509
+Text GLabel 7534 3509 2    56   BiDi ~ 0
+A19
+Wire Wire Line
+	8984 4409 8984 4521
+Text GLabel 8984 4521 3    56   BiDi ~ 0
+BUSY-ME2
+Wire Wire Line
+	3062 8900 1675 8900
+Text GLabel 1675 8900 2    56   BiDi ~ 0
+CMD_ALE1
+Wire Wire Line
+	5325 4088 5625 4088
+Text GLabel 5625 4088 2    56   BiDi ~ 0
+CE-SPI-PIC-IC44
+Entry Wire Line
+	11262 3213 11362 3313
+Entry Wire Line
+	11262 4013 11362 4113
+Entry Wire Line
+	11262 4113 11362 4213
+Entry Wire Line
+	11262 4213 11362 4313
+Entry Wire Line
+	11262 3313 11362 3413
+Entry Wire Line
+	11262 3513 11362 3613
+Entry Wire Line
+	11262 3613 11362 3713
+Entry Wire Line
+	11262 3813 11362 3913
+Entry Wire Line
+	3625 2888 3725 2788
+Entry Wire Line
+	3625 3388 3725 3288
+Entry Wire Line
+	3625 3488 3725 3388
+Entry Wire Line
+	3625 3588 3725 3488
+Entry Wire Line
+	3625 2988 3725 2888
+Entry Wire Line
+	3625 3088 3725 2988
+Entry Wire Line
+	3625 3188 3725 3088
+Entry Wire Line
+	3625 3288 3725 3188
+Entry Wire Line
+	3625 3688 3725 3588
+Entry Wire Line
+	3625 3788 3725 3688
+Entry Wire Line
+	3625 3888 3725 3788
+Entry Wire Line
+	3625 3988 3725 3888
+Entry Wire Line
+	3625 4088 3725 3988
+Entry Wire Line
+	3625 4188 3725 4088
+Entry Wire Line
+	3625 4288 3725 4188
+Entry Wire Line
+	3625 4388 3725 4288
+Entry Wire Line
+	2837 7800 2937 7700
+Entry Wire Line
+	2837 8300 2937 8200
+Entry Wire Line
+	2837 8400 2937 8300
+Entry Wire Line
+	2837 8500 2937 8400
+Entry Wire Line
+	2837 7900 2937 7800
+Entry Wire Line
+	2837 8000 2937 7900
+Entry Wire Line
+	2837 8100 2937 8000
+Entry Wire Line
+	2837 8200 2937 8100
+Entry Wire Line
+	9734 2209 9834 2109
+Entry Wire Line
+	9734 2709 9834 2609
+Entry Wire Line
+	9734 2809 9834 2709
+Entry Wire Line
+	9734 2909 9834 2809
+Entry Wire Line
+	9734 2309 9834 2209
+Entry Wire Line
+	9734 2409 9834 2309
+Entry Wire Line
+	9734 2509 9834 2409
+Entry Wire Line
+	9734 2609 9834 2509
+Entry Wire Line
+	9734 3009 9834 2909
+Entry Wire Line
+	9734 3109 9834 3009
+Entry Wire Line
+	9734 3209 9834 3109
+Entry Wire Line
+	9734 3309 9834 3209
+Entry Wire Line
+	9734 3409 9834 3309
+Entry Wire Line
+	9734 3509 9834 3409
+Entry Wire Line
+	9734 3609 9834 3509
+Entry Wire Line
+	9734 3709 9834 3609
+Entry Wire Line
+	11262 2663 11362 2763
+Entry Wire Line
+	11262 2863 11362 2963
+Entry Wire Line
+	11262 2963 11362 3063
+Entry Wire Line
+	7434 1809 7534 1709
+Entry Wire Line
+	7434 1909 7534 1809
+Entry Wire Line
+	7434 2009 7534 1909
+Entry Wire Line
+	7434 2109 7534 2009
+Entry Wire Line
+	7434 2209 7534 2109
+Entry Wire Line
+	7434 2309 7534 2209
+Entry Wire Line
+	7434 2409 7534 2309
+Entry Wire Line
+	7434 2509 7534 2409
+Entry Wire Line
+	7434 2609 7534 2509
+Entry Wire Line
+	7434 2709 7534 2609
+Entry Wire Line
+	7434 2809 7534 2709
+Entry Wire Line
+	7434 2909 7534 2809
+Entry Wire Line
+	7434 3009 7534 2909
+Entry Wire Line
+	7434 3209 7534 3109
+Entry Wire Line
+	7434 3109 7534 3009
+Entry Wire Line
+	7434 3309 7534 3209
+Entry Wire Line
+	7434 3409 7534 3309
+Entry Wire Line
+	7434 3509 7534 3409
+Entry Wire Line
+	7434 3609 7534 3509
+$Comp
+L CPU-eagle-import:+5V #U$33
+U 1 1 6953EFA5
+P 3362 6588
+AR Path="/6953EFA5" Ref="#U$33"  Part="1" 
+AR Path="/5E995E44/6953EFA5" Ref="#U$033"  Part="1" 
+F 0 "#U$033" H 3362 6588 50  0001 C CNN
+F 1 "+5V" H 3287 6513 59  0000 L BNN
+F 2 "" H 3362 6588 50  0001 C CNN
+F 3 "" H 3362 6588 50  0001 C CNN
+	1    3362 6588
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+3,3V #U$73
+U 1 1 0D6BAA89
+P 4762 6751
+AR Path="/0D6BAA89" Ref="#U$73"  Part="1" 
+AR Path="/5E995E44/0D6BAA89" Ref="#U$073"  Part="1" 
+F 0 "#U$073" H 4762 6751 50  0001 C CNN
+F 1 "+3,3V" H 4650 6976 59  0000 L BNN
+F 2 "" H 4762 6751 50  0001 C CNN
+F 3 "" H 4762 6751 50  0001 C CNN
+	1    4762 6751
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:74ACT16373 IC14
+U 1 1 6BA2D255
+P 4725 3388
+AR Path="/6BA2D255" Ref="IC14"  Part="1" 
+AR Path="/5E995E44/6BA2D255" Ref="IC14"  Part="1" 
+F 0 "IC14" H 5000 4888 85  0000 L BNN
+F 1 "74ACT16373" H 5000 4813 64  0000 L BNN
+F 2 "10125623A00:TSSOP48" H 4725 3388 50  0001 C CNN
+F 3 "" H 4725 3388 50  0001 C CNN
+F 4 "74ACT16373DLR" H 4725 3388 50  0001 C CNN "manf#"
+	1    4725 3388
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$78
+U 1 1 7A2675AF
+P 4625 5188
+AR Path="/7A2675AF" Ref="#U$78"  Part="1" 
+AR Path="/5E995E44/7A2675AF" Ref="#U$078"  Part="1" 
+F 0 "#U$078" H 4625 5188 50  0001 C CNN
+F 1 "GND" H 4537 5101 59  0000 L BNN
+F 2 "" H 4625 5188 50  0001 C CNN
+F 3 "" H 4625 5188 50  0001 C CNN
+	1    4625 5188
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$79
+U 1 1 A488A5D8
+P 4625 1250
+AR Path="/A488A5D8" Ref="#U$79"  Part="1" 
+AR Path="/5E995E44/A488A5D8" Ref="#U$079"  Part="1" 
+F 0 "#U$079" H 4625 1250 50  0001 C CNN
+F 1 "+5V" H 4550 1175 59  0000 L BNN
+F 2 "" H 4625 1250 50  0001 C CNN
+F 3 "" H 4625 1250 50  0001 C CNN
+	1    4625 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C33
+U 1 1 C9502F30
+P 4225 1700
+AR Path="/C9502F30" Ref="C33"  Part="1" 
+AR Path="/5E995E44/C9502F30" Ref="C33"  Part="1" 
+F 0 "C33" V 4450 1594 64  0000 L BNN
+F 1 "100nF" V 4356 1601 42  0000 L BNN
+F 2 "10125623A00:C0805" H 4225 1700 50  0001 C CNN
+F 3 "" H 4225 1700 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 4225 1700 50  0001 C CNN "manf#"
+	1    4225 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C37
+U 1 1 235E1F38
+P 5125 1700
+AR Path="/235E1F38" Ref="C37"  Part="1" 
+AR Path="/5E995E44/235E1F38" Ref="C37"  Part="1" 
+F 0 "C37" V 5350 1607 64  0000 L BNN
+F 1 "100nF" V 5256 1601 42  0000 L BNN
+F 2 "10125623A00:C0805" H 5125 1700 50  0001 C CNN
+F 3 "" H 5125 1700 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 5125 1700 50  0001 C CNN "manf#"
+	1    5125 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$80
+U 1 1 6E5A9549
+P 5450 1700
+AR Path="/6E5A9549" Ref="#U$80"  Part="1" 
+AR Path="/5E995E44/6E5A9549" Ref="#U$080"  Part="1" 
+F 0 "#U$080" H 5450 1700 50  0001 C CNN
+F 1 "GND" H 5362 1625 59  0000 L BNN
+F 2 "" H 5450 1700 50  0001 C CNN
+F 3 "" H 5450 1700 50  0001 C CNN
+	1    5450 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$82
+U 1 1 C66F0688
+P 3925 1250
+AR Path="/C66F0688" Ref="#U$82"  Part="1" 
+AR Path="/5E995E44/C66F0688" Ref="#U$082"  Part="1" 
+F 0 "#U$082" H 3925 1250 50  0001 C CNN
+F 1 "GND" H 3850 1175 59  0000 L BNN
+F 2 "" H 3925 1250 50  0001 C CNN
+F 3 "" H 3925 1250 50  0001 C CNN
+	1    3925 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$36
+U 1 1 BA2602F5
+P 1450 2538
+AR Path="/BA2602F5" Ref="#U$36"  Part="1" 
+AR Path="/5E995E44/BA2602F5" Ref="#U$36"  Part="1" 
+F 0 "#U$36" H 1450 2538 50  0001 C CNN
+F 1 "PORT_COU" H 1450 2538 50  0001 C CNN
+F 2 "" H 1450 2538 50  0001 C CNN
+F 3 "" H 1450 2538 50  0001 C CNN
+	1    1450 2538
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$74
+U 1 1 2C86A92E
+P 1450 1875
+AR Path="/2C86A92E" Ref="#U$74"  Part="1" 
+AR Path="/5E995E44/2C86A92E" Ref="#U$74"  Part="1" 
+F 0 "#U$74" H 1450 1875 50  0001 C CNN
+F 1 "PORT_COU" H 1450 1875 50  0001 C CNN
+F 2 "" H 1450 1875 50  0001 C CNN
+F 3 "" H 1450 1875 50  0001 C CNN
+	1    1450 1875
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$84
+U 1 1 EC61F777
+P 6262 2788
+AR Path="/EC61F777" Ref="#U$84"  Part="1" 
+AR Path="/5E995E44/EC61F777" Ref="#U$84"  Part="1" 
+F 0 "#U$84" H 6262 2788 50  0001 C CNN
+F 1 "PORT" H 6262 2788 50  0001 C CNN
+F 2 "" H 6262 2788 50  0001 C CNN
+F 3 "" H 6262 2788 50  0001 C CNN
+	1    6262 2788
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$91
+U 1 1 DBB7E3D6
+P 6262 2888
+AR Path="/DBB7E3D6" Ref="#U$91"  Part="1" 
+AR Path="/5E995E44/DBB7E3D6" Ref="#U$91"  Part="1" 
+F 0 "#U$91" H 6262 2888 50  0001 C CNN
+F 1 "PORT" H 6262 2888 50  0001 C CNN
+F 2 "" H 6262 2888 50  0001 C CNN
+F 3 "" H 6262 2888 50  0001 C CNN
+	1    6262 2888
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$404
+U 1 1 E0EA1C23
+P 6737 3388
+AR Path="/E0EA1C23" Ref="#U$404"  Part="1" 
+AR Path="/5E995E44/E0EA1C23" Ref="#U$404"  Part="1" 
+F 0 "#U$404" H 6737 3388 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3388 50  0001 C CNN
+F 2 "" H 6737 3388 50  0001 C CNN
+F 3 "" H 6737 3388 50  0001 C CNN
+	1    6737 3388
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$406
+U 1 1 01B58986
+P 6737 3488
+AR Path="/01B58986" Ref="#U$406"  Part="1" 
+AR Path="/5E995E44/01B58986" Ref="#U$406"  Part="1" 
+F 0 "#U$406" H 6737 3488 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3488 50  0001 C CNN
+F 2 "" H 6737 3488 50  0001 C CNN
+F 3 "" H 6737 3488 50  0001 C CNN
+	1    6737 3488
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$456
+U 1 1 7983472C
+P 6737 3588
+AR Path="/7983472C" Ref="#U$456"  Part="1" 
+AR Path="/5E995E44/7983472C" Ref="#U$456"  Part="1" 
+F 0 "#U$456" H 6737 3588 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3588 50  0001 C CNN
+F 2 "" H 6737 3588 50  0001 C CNN
+F 3 "" H 6737 3588 50  0001 C CNN
+	1    6737 3588
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$56
+U 1 1 53CB7783
+P 6262 3188
+AR Path="/53CB7783" Ref="#U$56"  Part="1" 
+AR Path="/5E995E44/53CB7783" Ref="#U$56"  Part="1" 
+F 0 "#U$56" H 6262 3188 50  0001 C CNN
+F 1 "PORT" H 6262 3188 50  0001 C CNN
+F 2 "" H 6262 3188 50  0001 C CNN
+F 3 "" H 6262 3188 50  0001 C CNN
+	1    6262 3188
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$197
+U 1 1 6635C477
+P 6262 3088
+AR Path="/6635C477" Ref="#U$197"  Part="1" 
+AR Path="/5E995E44/6635C477" Ref="#U$197"  Part="1" 
+F 0 "#U$197" H 6262 3088 50  0001 C CNN
+F 1 "PORT" H 6262 3088 50  0001 C CNN
+F 2 "" H 6262 3088 50  0001 C CNN
+F 3 "" H 6262 3088 50  0001 C CNN
+	1    6262 3088
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C2
+U 1 1 6D294609
+P 12312 1350
+AR Path="/6D294609" Ref="C2"  Part="1" 
+AR Path="/5E995E44/6D294609" Ref="C2"  Part="1" 
+F 0 "C2" V 12474 1419 64  0000 R TNN
+F 1 "100nF" V 12405 1412 42  0000 R TNN
+F 2 "10125623A00:C0805" H 12312 1350 50  0001 C CNN
+F 3 "" H 12312 1350 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 12312 1350 50  0001 C CNN "manf#"
+	1    12312 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$31
+U 1 1 BD08BF3C
+P 12550 950
+AR Path="/BD08BF3C" Ref="#U$31"  Part="1" 
+AR Path="/5E995E44/BD08BF3C" Ref="#U$031"  Part="1" 
+F 0 "#U$031" H 12550 950 50  0001 C CNN
+F 1 "+5V" H 12463 863 59  0000 L BNN
+F 2 "" H 12550 950 50  0001 C CNN
+F 3 "" H 12550 950 50  0001 C CNN
+	1    12550 950 
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$50
+U 1 1 1C85CEBD
+P 12100 1000
+AR Path="/1C85CEBD" Ref="#U$50"  Part="1" 
+AR Path="/5E995E44/1C85CEBD" Ref="#U$050"  Part="1" 
+F 0 "#U$050" H 12100 1000 50  0001 C CNN
+F 1 "GND" H 12013 913 59  0000 L BNN
+F 2 "" H 12100 1000 50  0001 C CNN
+F 3 "" H 12100 1000 50  0001 C CNN
+	1    12100 1000
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:HC49UP Q2
+U 1 1 53ABB1EB
+P 13762 1750
+AR Path="/53ABB1EB" Ref="Q2"  Part="1" 
+AR Path="/5E995E44/53ABB1EB" Ref="Q2"  Part="1" 
+F 0 "Q2" V 13677 1950 51  0000 R TNN
+F 1 "3.6864MHz" V 13762 2188 51  0000 R TNN
+F 2 "10125623A00:HC49UP" H 13762 1750 50  0001 C CNN
+F 3 "" H 13762 1750 50  0001 C CNN
+F 4 "LFXTAL003260REEL" H 13762 1750 50  0001 C CNN "manf#"
+	1    13762 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C15
+U 1 1 58269073
+P 14200 1963
+AR Path="/58269073" Ref="C15"  Part="1" 
+AR Path="/5E995E44/58269073" Ref="C15"  Part="1" 
+F 0 "C15" V 14287 2056 64  0000 R TNN
+F 1 "47pF" V 14381 2050 42  0000 R TNN
+F 2 "10125623A00:C0805" H 14200 1963 50  0001 C CNN
+F 3 "" H 14200 1963 50  0001 C CNN
+F 4 "CL05C470JB5NNNC" H 14200 1963 50  0001 C CNN "manf#"
+	1    14200 1963
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C16
+U 1 1 8F520983
+P 14200 1563
+AR Path="/8F520983" Ref="C16"  Part="1" 
+AR Path="/5E995E44/8F520983" Ref="C16"  Part="1" 
+F 0 "C16" V 14450 1470 64  0000 L BNN
+F 1 "22pF" V 14356 1476 42  0000 L BNN
+F 2 "10125623A00:C0805" H 14200 1563 50  0001 C CNN
+F 3 "" H 14200 1563 50  0001 C CNN
+F 4 "CL10C220JB8NNNC" H 14200 1563 50  0001 C CNN "manf#"
+	1    14200 1563
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$51
+U 1 1 773EFA15
+P 14525 1763
+AR Path="/773EFA15" Ref="#U$51"  Part="1" 
+AR Path="/5E995E44/773EFA15" Ref="#U$051"  Part="1" 
+F 0 "#U$051" H 14525 1763 50  0001 C CNN
+F 1 "GND" H 14438 1676 59  0000 L BNN
+F 2 "" H 14525 1763 50  0001 C CNN
+F 3 "" H 14525 1763 50  0001 C CNN
+	1    14525 1763
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:R0805 R2
+U 1 1 986554BD
+P 13287 1963
+AR Path="/986554BD" Ref="R2"  Part="1" 
+AR Path="/5E995E44/986554BD" Ref="R2"  Part="1" 
+F 0 "R2" H 13212 1813 64  0000 L BNN
+F 1 "1.5K" H 13212 1751 42  0000 L BNN
+F 2 "10125623A00:R0805" H 13287 1963 50  0001 C CNN
+F 3 "" H 13287 1963 50  0001 C CNN
+F 4 "RC0603JR-071K5L" H 13287 1963 50  0001 C CNN "manf#"
+	1    13287 1963
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:R0805 R4
+U 1 1 BADBB996
+P 13550 1763
+AR Path="/BADBB996" Ref="R4"  Part="1" 
+AR Path="/5E995E44/BADBB996" Ref="R4"  Part="1" 
+F 0 "R4" V 13625 1851 64  0000 L BNN
+F 1 "1M" V 13538 1888 42  0000 L BNN
+F 2 "10125623A00:R0805" H 13550 1763 50  0001 C CNN
+F 3 "" H 13550 1763 50  0001 C CNN
+F 4 "RC0603FR-071ML" H 13550 1763 50  0001 C CNN "manf#"
+	1    13550 1763
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$52
+U 1 1 065004B8
+P 11262 5450
+AR Path="/065004B8" Ref="#U$52"  Part="1" 
+AR Path="/5E995E44/065004B8" Ref="#U$052"  Part="1" 
+F 0 "#U$052" H 11262 5450 50  0001 C CNN
+F 1 "GND" H 11175 5362 59  0000 L BNN
+F 2 "" H 11262 5450 50  0001 C CNN
+F 3 "" H 11262 5450 50  0001 C CNN
+	1    11262 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$53
+U 1 1 2725C90F
+P 11275 1575
+AR Path="/2725C90F" Ref="#U$53"  Part="1" 
+AR Path="/5E995E44/2725C90F" Ref="#U$053"  Part="1" 
+F 0 "#U$053" H 11275 1575 50  0001 C CNN
+F 1 "+5V" H 11188 1488 59  0000 L BNN
+F 2 "" H 11275 1575 50  0001 C CNN
+F 3 "" H 11275 1575 50  0001 C CNN
+	1    11275 1575
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$57
+U 1 1 81707F23
+P 10987 2063
+AR Path="/81707F23" Ref="#U$57"  Part="1" 
+AR Path="/5E995E44/81707F23" Ref="#U$57"  Part="1" 
+F 0 "#U$57" H 10987 2063 50  0001 C CNN
+F 1 "PORT_COU" H 10987 2063 50  0001 C CNN
+F 2 "" H 10987 2063 50  0001 C CNN
+F 3 "" H 10987 2063 50  0001 C CNN
+	1    10987 2063
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$61
+U 1 1 95A06B3D
+P 11075 2263
+AR Path="/95A06B3D" Ref="#U$61"  Part="1" 
+AR Path="/5E995E44/95A06B3D" Ref="#U$061"  Part="1" 
+F 0 "#U$061" H 11075 2263 50  0001 C CNN
+F 1 "GND" H 10987 2175 59  0000 L BNN
+F 2 "" H 11075 2263 50  0001 C CNN
+F 3 "" H 11075 2263 50  0001 C CNN
+	1    11075 2263
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$62
+U 1 1 D720F78C
+P 10600 2463
+AR Path="/D720F78C" Ref="#U$62"  Part="1" 
+AR Path="/5E995E44/D720F78C" Ref="#U$62"  Part="1" 
+F 0 "#U$62" H 10600 2463 50  0001 C CNN
+F 1 "PORT" H 10600 2463 50  0001 C CNN
+F 2 "" H 10600 2463 50  0001 C CNN
+F 3 "" H 10600 2463 50  0001 C CNN
+	1    10600 2463
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$63
+U 1 1 816C3D6F
+P 11237 2563
+AR Path="/816C3D6F" Ref="#U$63"  Part="1" 
+AR Path="/5E995E44/816C3D6F" Ref="#U$63"  Part="1" 
+F 0 "#U$63" H 11237 2563 50  0001 C CNN
+F 1 "PORT" H 11237 2563 50  0001 C CNN
+F 2 "" H 11237 2563 50  0001 C CNN
+F 3 "" H 11237 2563 50  0001 C CNN
+	1    11237 2563
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:TL16C750IPM IC1
+U 1 1 22F7723E
+P 12200 3013
+AR Path="/22F7723E" Ref="IC1"  Part="1" 
+AR Path="/5E995E44/22F7723E" Ref="IC1"  Part="1" 
+F 0 "IC1" H 12650 4638 59  0000 L BNN
+F 1 "TL16C750IPM" H 12650 4551 59  0000 L BNN
+F 2 "10125623A00:TQFP64" H 12200 3013 50  0001 C CNN
+F 3 "" H 12200 3013 50  0001 C CNN
+F 4 "Obsolete" H 12200 3013 50  0001 C CNN "Replacement"
+F 5 "TL16C750PM" H 12200 3013 50  0001 C CNN "manf#"
+	1    12200 3013
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:RES_4R_BCN RS8
+U 1 1 887C726F
+P 13337 3213
+AR Path="/887C726F" Ref="RS8"  Part="1" 
+AR Path="/5E995E44/887C726F" Ref="RS8"  Part="1" 
+F 0 "RS8" V 13412 3438 59  0000 L BNN
+F 1 "6.8K" V 13325 3438 59  0000 L BNN
+F 2 "10125623A00:BCN16_4_" H 13337 3213 50  0001 C CNN
+F 3 "" H 13337 3213 50  0001 C CNN
+F 4 "Obsolete" H 13337 3213 50  0001 C CNN "Replacement"
+F 5 "BCN164AB682J7" H 13337 3213 50  0001 C CNN "manf#"
+	1    13337 3213
+	0    1    -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$66
+U 1 1 32421C70
+P 13187 2600
+AR Path="/32421C70" Ref="#U$66"  Part="1" 
+AR Path="/5E995E44/32421C70" Ref="#U$066"  Part="1" 
+F 0 "#U$066" H 13187 2600 50  0001 C CNN
+F 1 "+5V" H 13099 2513 59  0000 L BNN
+F 2 "" H 13187 2600 50  0001 C CNN
+F 3 "" H 13187 2600 50  0001 C CNN
+	1    13187 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:LVC1G07DBVT IC8
+U 1 1 45D38355
+P 14250 6650
+AR Path="/45D38355" Ref="IC8"  Part="1" 
+AR Path="/5E995E44/45D38355" Ref="IC8"  Part="1" 
+F 0 "IC8" H 14600 7112 64  0000 L BNN
+F 1 "SN74LVC1G07DBVT" H 14575 7025 59  0000 L BNN
+F 2 "10125623A00:SOT753_DBV" H 14250 6650 50  0001 C CNN
+F 3 "" H 14250 6650 50  0001 C CNN
+F 4 "SN74LVC1G07DBVT" H 14250 6650 50  0001 C CNN "manf#"
+	1    14250 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:LVC1G07DBVT IC9
+U 1 1 5F7D4A82
+P 14400 4263
+AR Path="/5F7D4A82" Ref="IC9"  Part="1" 
+AR Path="/5E995E44/5F7D4A82" Ref="IC9"  Part="1" 
+F 0 "IC9" H 14338 3788 64  0000 L BNN
+F 1 "SN74LVC1G07DBVT" H 13825 3888 59  0000 L BNN
+F 2 "10125623A00:SOT753_DBV" H 14400 4263 50  0001 C CNN
+F 3 "" H 14400 4263 50  0001 C CNN
+F 4 "SN74LVC1G07DBVT" H 14400 4263 50  0001 C CNN "manf#"
+	1    14400 4263
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$68
+U 1 1 BE4DCE1E
+P 14400 4838
+AR Path="/BE4DCE1E" Ref="#U$68"  Part="1" 
+AR Path="/5E995E44/BE4DCE1E" Ref="#U$068"  Part="1" 
+F 0 "#U$068" H 14400 4838 50  0001 C CNN
+F 1 "GND" H 14312 4751 59  0000 L BNN
+F 2 "" H 14400 4838 50  0001 C CNN
+F 3 "" H 14400 4838 50  0001 C CNN
+	1    14400 4838
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$69
+U 1 1 82C3E2B3
+P 14250 6000
+AR Path="/82C3E2B3" Ref="#U$69"  Part="1" 
+AR Path="/5E995E44/82C3E2B3" Ref="#U$069"  Part="1" 
+F 0 "#U$069" H 14250 6000 50  0001 C CNN
+F 1 "GND" H 14163 5913 59  0000 L BNN
+F 2 "" H 14250 6000 50  0001 C CNN
+F 3 "" H 14250 6000 50  0001 C CNN
+	1    14250 6000
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:R0805 R5
+U 1 1 40871C63
+P 13600 3988
+AR Path="/40871C63" Ref="R5"  Part="1" 
+AR Path="/5E995E44/40871C63" Ref="R5"  Part="1" 
+F 0 "R5" V 13613 3913 64  0000 R TNN
+F 1 "10K" V 13550 3913 42  0000 R TNN
+F 2 "10125623A00:R0805" H 13600 3988 50  0001 C CNN
+F 3 "" H 13600 3988 50  0001 C CNN
+F 4 "RC0603JR-0710KL" H 13600 3988 50  0001 C CNN "manf#"
+	1    13600 3988
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:R0805 R6
+U 1 1 91847459
+P 15325 6350
+AR Path="/91847459" Ref="R6"  Part="1" 
+AR Path="/5E995E44/91847459" Ref="R6"  Part="1" 
+F 0 "R6" V 15350 6200 64  0000 R TNN
+F 1 "10K" V 15275 6200 42  0000 R TNN
+F 2 "10125623A00:R0805" H 15325 6350 50  0001 C CNN
+F 3 "" H 15325 6350 50  0001 C CNN
+F 4 "RC0603JR-0710KL" H 15325 6350 50  0001 C CNN "manf#"
+	1    15325 6350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:+3,3V #U$72
+U 1 1 12B0E286
+P 14287 5263
+AR Path="/12B0E286" Ref="#U$72"  Part="1" 
+AR Path="/5E995E44/12B0E286" Ref="#U$072"  Part="1" 
+F 0 "#U$072" H 14287 5263 50  0001 C CNN
+F 1 "+3,3V" H 14175 5476 59  0000 L BNN
+F 2 "" H 14287 5263 50  0001 C CNN
+F 3 "" H 14287 5263 50  0001 C CNN
+	1    14287 5263
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$116
+U 1 1 3927A1D0
+P 13600 3663
+AR Path="/3927A1D0" Ref="#U$116"  Part="1" 
+AR Path="/5E995E44/3927A1D0" Ref="#U$0116"  Part="1" 
+F 0 "#U$0116" H 13600 3663 50  0001 C CNN
+F 1 "+5V" H 13650 3638 59  0000 R TNN
+F 2 "" H 13600 3663 50  0001 C CNN
+F 3 "" H 13600 3663 50  0001 C CNN
+	1    13600 3663
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$120
+U 1 1 2E993774
+P 11137 4563
+AR Path="/2E993774" Ref="#U$120"  Part="1" 
+AR Path="/5E995E44/2E993774" Ref="#U$120"  Part="1" 
+F 0 "#U$120" H 11137 4563 50  0001 C CNN
+F 1 "PORT_COU" H 11137 4563 50  0001 C CNN
+F 2 "" H 11137 4563 50  0001 C CNN
+F 3 "" H 11137 4563 50  0001 C CNN
+	1    11137 4563
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$123
+U 1 1 F16F7D6E
+P 11137 4963
+AR Path="/F16F7D6E" Ref="#U$123"  Part="1" 
+AR Path="/5E995E44/F16F7D6E" Ref="#U$123"  Part="1" 
+F 0 "#U$123" H 11137 4963 50  0001 C CNN
+F 1 "PORT_COU" H 11137 4963 50  0001 C CNN
+F 2 "" H 11137 4963 50  0001 C CNN
+F 3 "" H 11137 4963 50  0001 C CNN
+	1    11137 4963
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$124
+U 1 1 3DC1F79A
+P 14550 5063
+AR Path="/3DC1F79A" Ref="#U$124"  Part="1" 
+AR Path="/5E995E44/3DC1F79A" Ref="#U$0124"  Part="1" 
+F 0 "#U$0124" H 14550 5063 50  0001 C CNN
+F 1 "+5V" H 14625 5038 59  0000 R TNN
+F 2 "" H 14550 5063 50  0001 C CNN
+F 3 "" H 14550 5063 50  0001 C CNN
+	1    14550 5063
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$125
+U 1 1 8BB16C0D
+P 16100 6650
+AR Path="/8BB16C0D" Ref="#U$125"  Part="1" 
+AR Path="/5E995E44/8BB16C0D" Ref="#U$125"  Part="1" 
+F 0 "#U$125" H 16100 6650 50  0001 C CNN
+F 1 "PORT" H 16100 6650 50  0001 C CNN
+F 2 "" H 16100 6650 50  0001 C CNN
+F 3 "" H 16100 6650 50  0001 C CNN
+	1    16100 6650
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$129
+U 1 1 D33C3BA3
+P 15012 4263
+AR Path="/D33C3BA3" Ref="#U$129"  Part="1" 
+AR Path="/5E995E44/D33C3BA3" Ref="#U$129"  Part="1" 
+F 0 "#U$129" H 15012 4263 50  0001 C CNN
+F 1 "PORT" H 15012 4263 50  0001 C CNN
+F 2 "" H 15012 4263 50  0001 C CNN
+F 3 "" H 15012 4263 50  0001 C CNN
+	1    15012 4263
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C140
+U 1 1 63F00A8C
+P 3150 1713
+AR Path="/63F00A8C" Ref="C140"  Part="1" 
+AR Path="/5E995E44/63F00A8C" Ref="C140"  Part="1" 
+F 0 "C140" V 3000 1594 64  0000 L BNN
+F 1 "100nF" V 3069 1613 42  0000 L BNN
+F 2 "10125623A00:C0805" H 3150 1713 50  0001 C CNN
+F 3 "" H 3150 1713 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 3150 1713 50  0001 C CNN "manf#"
+	1    3150 1713
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$54
+U 1 1 7B689AD0
+P 2862 9600
+AR Path="/7B689AD0" Ref="#U$54"  Part="1" 
+AR Path="/5E995E44/7B689AD0" Ref="#U$054"  Part="1" 
+F 0 "#U$054" H 2862 9600 50  0001 C CNN
+F 1 "GND" H 2787 9525 59  0000 L BNN
+F 2 "" H 2862 9600 50  0001 C CNN
+F 3 "" H 2862 9600 50  0001 C CNN
+	1    2862 9600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:SN74ALVC164245 IC2
+U 1 1 BC34DC86
+P 3262 7700
+AR Path="/BC34DC86" Ref="IC2"  Part="1" 
+AR Path="/5E995E44/BC34DC86" Ref="IC2"  Part="1" 
+F 0 "IC2" V 5050 8387 127 0000 R TNN
+F 1 "SN74ALVC164245" V 5525 8287 127 0000 R TNN
+F 2 "10125623A00:TSSOP48" H 3262 7700 50  0001 C CNN
+F 3 "" H 3262 7700 50  0001 C CNN
+F 4 "SN74ALVC164245DGGR" H 3262 7700 50  0001 C CNN "manf#"
+	1    3262 7700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$191
+U 1 1 607941BD
+P 1425 7863
+AR Path="/607941BD" Ref="#U$191"  Part="1" 
+AR Path="/5E995E44/607941BD" Ref="#U$191"  Part="1" 
+F 0 "#U$191" H 1425 7863 50  0001 C CNN
+F 1 "PORT_COU" H 1425 7863 50  0001 C CNN
+F 2 "" H 1425 7863 50  0001 C CNN
+F 3 "" H 1425 7863 50  0001 C CNN
+	1    1425 7863
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$465
+U 1 1 32FD6FAB
+P 1425 8700
+AR Path="/32FD6FAB" Ref="#U$465"  Part="1" 
+AR Path="/5E995E44/32FD6FAB" Ref="#U$465"  Part="1" 
+F 0 "#U$465" H 1425 8700 50  0001 C CNN
+F 1 "PORT_COU" H 1425 8700 50  0001 C CNN
+F 2 "" H 1425 8700 50  0001 C CNN
+F 3 "" H 1425 8700 50  0001 C CNN
+	1    1425 8700
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$466
+U 1 1 F9EBAE68
+P 1425 8800
+AR Path="/F9EBAE68" Ref="#U$466"  Part="1" 
+AR Path="/5E995E44/F9EBAE68" Ref="#U$466"  Part="1" 
+F 0 "#U$466" H 1425 8800 50  0001 C CNN
+F 1 "PORT_COU" H 1425 8800 50  0001 C CNN
+F 2 "" H 1425 8800 50  0001 C CNN
+F 3 "" H 1425 8800 50  0001 C CNN
+	1    1425 8800
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$153
+U 1 1 A0CE766D
+P 1675 9000
+AR Path="/A0CE766D" Ref="#U$153"  Part="1" 
+AR Path="/5E995E44/A0CE766D" Ref="#U$153"  Part="1" 
+F 0 "#U$153" H 1675 9000 50  0001 C CNN
+F 1 "PORT" H 1675 9000 50  0001 C CNN
+F 2 "" H 1675 9000 50  0001 C CNN
+F 3 "" H 1675 9000 50  0001 C CNN
+	1    1675 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$134
+U 1 1 8BC7A6EC
+P 4662 10200
+AR Path="/8BC7A6EC" Ref="#U$134"  Part="1" 
+AR Path="/5E995E44/8BC7A6EC" Ref="#U$0134"  Part="1" 
+F 0 "#U$0134" H 4662 10200 50  0001 C CNN
+F 1 "GND" H 4587 10125 59  0000 L BNN
+F 2 "" H 4662 10200 50  0001 C CNN
+F 3 "" H 4662 10200 50  0001 C CNN
+	1    4662 10200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$106
+U 1 1 4085D8D9
+P 7800 10300
+AR Path="/4085D8D9" Ref="#U$106"  Part="1" 
+AR Path="/5E995E44/4085D8D9" Ref="#U$0106"  Part="1" 
+F 0 "#U$0106" H 7800 10300 50  0001 C CNN
+F 1 "GND" H 7725 10225 59  0000 L BNN
+F 2 "" H 7800 10300 50  0001 C CNN
+F 3 "" H 7800 10300 50  0001 C CNN
+	1    7800 10300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$127
+U 1 1 B92B2AD0
+P 4925 10600
+AR Path="/B92B2AD0" Ref="#U$127"  Part="1" 
+AR Path="/5E995E44/B92B2AD0" Ref="#U$127"  Part="1" 
+F 0 "#U$127" H 4925 10600 50  0001 C CNN
+F 1 "PORT" H 4925 10600 50  0001 C CNN
+F 2 "" H 4925 10600 50  0001 C CNN
+F 3 "" H 4925 10600 50  0001 C CNN
+	1    4925 10600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:+3,3V #U$155
+U 1 1 696DB67A
+P 6162 9000
+AR Path="/696DB67A" Ref="#U$155"  Part="1" 
+AR Path="/5E995E44/696DB67A" Ref="#U$0155"  Part="1" 
+F 0 "#U$0155" H 6162 9000 50  0001 C CNN
+F 1 "+3,3V" V 6249 9137 59  0000 L BNN
+F 2 "" H 6162 9000 50  0001 C CNN
+F 3 "" H 6162 9000 50  0001 C CNN
+	1    6162 9000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C4
+U 1 1 A60240AA
+P 6900 6800
+AR Path="/A60240AA" Ref="C4"  Part="1" 
+AR Path="/5E995E44/A60240AA" Ref="C4"  Part="1" 
+F 0 "C4" V 7125 6719 64  0000 L BNN
+F 1 "100nF" V 7031 6676 42  0000 L BNN
+F 2 "10125623A00:C0805" H 6900 6800 50  0001 C CNN
+F 3 "" H 6900 6800 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 6900 6800 50  0001 C CNN "manf#"
+	1    6900 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:+3,3V #U$77
+U 1 1 9A1B0C17
+P 7300 6700
+AR Path="/9A1B0C17" Ref="#U$77"  Part="1" 
+AR Path="/5E995E44/9A1B0C17" Ref="#U$077"  Part="1" 
+F 0 "#U$077" H 7300 6700 50  0001 C CNN
+F 1 "+3,3V" H 7187 6925 59  0000 L BNN
+F 2 "" H 7300 6700 50  0001 C CNN
+F 3 "" H 7300 6700 50  0001 C CNN
+	1    7300 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$85
+U 1 1 B088C125
+P 6600 6500
+AR Path="/B088C125" Ref="#U$85"  Part="1" 
+AR Path="/5E995E44/B088C125" Ref="#U$085"  Part="1" 
+F 0 "#U$085" H 6600 6500 50  0001 C CNN
+F 1 "GND" H 6513 6413 59  0000 L BNN
+F 2 "" H 6600 6500 50  0001 C CNN
+F 3 "" H 6600 6500 50  0001 C CNN
+	1    6600 6500
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$300
+U 1 1 3218334E
+P 6262 3288
+AR Path="/3218334E" Ref="#U$300"  Part="1" 
+AR Path="/5E995E44/3218334E" Ref="#U$300"  Part="1" 
+F 0 "#U$300" H 6262 3288 50  0001 C CNN
+F 1 "PORT" H 6262 3288 50  0001 C CNN
+F 2 "" H 6262 3288 50  0001 C CNN
+F 3 "" H 6262 3288 50  0001 C CNN
+	1    6262 3288
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$292
+U 1 1 8334C59D
+P 9562 7775
+AR Path="/8334C59D" Ref="#U$292"  Part="1" 
+AR Path="/5E995E44/8334C59D" Ref="#U$292"  Part="1" 
+F 0 "#U$292" H 9562 7775 50  0001 C CNN
+F 1 "PORT" H 9562 7775 50  0001 C CNN
+F 2 "" H 9562 7775 50  0001 C CNN
+F 3 "" H 9562 7775 50  0001 C CNN
+	1    9562 7775
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$293
+U 1 1 EE6706A4
+P 10912 6388
+AR Path="/EE6706A4" Ref="#U$293"  Part="1" 
+AR Path="/5E995E44/EE6706A4" Ref="#U$0293"  Part="1" 
+F 0 "#U$0293" H 10912 6388 50  0001 C CNN
+F 1 "+5V" H 10825 6300 59  0000 L BNN
+F 2 "" H 10912 6388 50  0001 C CNN
+F 3 "" H 10912 6388 50  0001 C CNN
+	1    10912 6388
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$294
+U 1 1 6EBC0E60
+P 10512 6413
+AR Path="/6EBC0E60" Ref="#U$294"  Part="1" 
+AR Path="/5E995E44/6EBC0E60" Ref="#U$0294"  Part="1" 
+F 0 "#U$0294" H 10512 6413 50  0001 C CNN
+F 1 "GND" H 10425 6325 59  0000 L BNN
+F 2 "" H 10512 6413 50  0001 C CNN
+F 3 "" H 10512 6413 50  0001 C CNN
+	1    10512 6413
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C24
+U 1 1 7752927D
+P 10712 6725
+AR Path="/7752927D" Ref="C24"  Part="1" 
+AR Path="/5E995E44/7752927D" Ref="C24"  Part="1" 
+F 0 "C24" V 10874 6819 64  0000 R TNN
+F 1 "100nF" V 10805 6813 42  0000 R TNN
+F 2 "10125623A00:C0805" H 10712 6725 50  0001 C CNN
+F 3 "" H 10712 6725 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 10712 6725 50  0001 C CNN "manf#"
+	1    10712 6725
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:AT25--- IC32
+U 1 1 1703D4A9
+P 10312 7575
+AR Path="/1703D4A9" Ref="IC32"  Part="1" 
+AR Path="/5E995E44/1703D4A9" Ref="IC32"  Part="1" 
+F 0 "IC32" H 10974 8287 127 0000 L BNN
+F 1 "25LC320" H 10974 8212 127 0000 L BNN
+F 2 "10125623A00:SOIC8" H 10312 7575 50  0001 C CNN
+F 3 "" H 10312 7575 50  0001 C CNN
+F 4 "25LC320-I/SN" H 10312 7575 50  0001 C CNN "manf#"
+	1    10312 7575
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$295
+U 1 1 079CD28E
+P 10037 7175
+AR Path="/079CD28E" Ref="#U$295"  Part="1" 
+AR Path="/5E995E44/079CD28E" Ref="#U$295"  Part="1" 
+F 0 "#U$295" H 10037 7175 50  0001 C CNN
+F 1 "PORT_LONG" H 10037 7175 50  0001 C CNN
+F 2 "" H 10037 7175 50  0001 C CNN
+F 3 "" H 10037 7175 50  0001 C CNN
+	1    10037 7175
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$296
+U 1 1 AA809E97
+P 8925 7375
+AR Path="/AA809E97" Ref="#U$296"  Part="1" 
+AR Path="/5E995E44/AA809E97" Ref="#U$296"  Part="1" 
+F 0 "#U$296" H 8925 7375 50  0001 C CNN
+F 1 "PORT_LONG" H 8925 7375 50  0001 C CNN
+F 2 "" H 8925 7375 50  0001 C CNN
+F 3 "" H 8925 7375 50  0001 C CNN
+	1    8925 7375
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$297
+U 1 1 500346B0
+P 10037 7575
+AR Path="/500346B0" Ref="#U$297"  Part="1" 
+AR Path="/5E995E44/500346B0" Ref="#U$297"  Part="1" 
+F 0 "#U$297" H 10037 7575 50  0001 C CNN
+F 1 "PORT_LONG" H 10037 7575 50  0001 C CNN
+F 2 "" H 10037 7575 50  0001 C CNN
+F 3 "" H 10037 7575 50  0001 C CNN
+	1    10037 7575
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$325
+U 1 1 444B25E3
+P 2162 1238
+AR Path="/444B25E3" Ref="#U$325"  Part="1" 
+AR Path="/5E995E44/444B25E3" Ref="#U$0325"  Part="1" 
+F 0 "#U$0325" H 2162 1238 50  0001 C CNN
+F 1 "+5V" H 2074 1163 59  0000 L BNN
+F 2 "" H 2162 1238 50  0001 C CNN
+F 3 "" H 2162 1238 50  0001 C CNN
+	1    2162 1238
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$326
+U 1 1 E28CED9F
+P 1862 1250
+AR Path="/E28CED9F" Ref="#U$326"  Part="1" 
+AR Path="/5E995E44/E28CED9F" Ref="#U$0326"  Part="1" 
+F 0 "#U$0326" H 1862 1250 50  0001 C CNN
+F 1 "GND" H 1774 1175 59  0000 L BNN
+F 2 "" H 1862 1250 50  0001 C CNN
+F 3 "" H 1862 1250 50  0001 C CNN
+	1    1862 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:C0603 C5
+U 1 1 8E04CE4C
+P 3600 6900
+AR Path="/8E04CE4C" Ref="C5"  Part="1" 
+AR Path="/5E995E44/8E04CE4C" Ref="C5"  Part="1" 
+F 0 "C5" V 3825 6857 64  0000 L BNN
+F 1 "100nF" V 3731 6788 42  0000 L BNN
+F 2 "10125623A00:C0603" H 3600 6900 50  0001 C CNN
+F 3 "" H 3600 6900 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 3600 6900 50  0001 C CNN "manf#"
+	1    3600 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:C0603 C20
+U 1 1 D1510C23
+P 4625 6900
+AR Path="/D1510C23" Ref="C20"  Part="1" 
+AR Path="/5E995E44/D1510C23" Ref="C20"  Part="1" 
+F 0 "C20" V 4850 6844 64  0000 L BNN
+F 1 "100nF" V 4756 6826 42  0000 L BNN
+F 2 "10125623A00:C0603" H 4625 6900 50  0001 C CNN
+F 3 "" H 4625 6900 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 4625 6900 50  0001 C CNN "manf#"
+	1    4625 6900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$32
+U 1 1 F4AAF165
+P 3762 6600
+AR Path="/F4AAF165" Ref="#U$32"  Part="1" 
+AR Path="/5E995E44/F4AAF165" Ref="#U$032"  Part="1" 
+F 0 "#U$032" H 3762 6600 50  0001 C CNN
+F 1 "GND" H 3687 6538 59  0000 L BNN
+F 2 "" H 3762 6600 50  0001 C CNN
+F 3 "" H 3762 6600 50  0001 C CNN
+	1    3762 6600
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$89
+U 1 1 83A8847E
+P 6737 3688
+AR Path="/83A8847E" Ref="#U$89"  Part="1" 
+AR Path="/5E995E44/83A8847E" Ref="#U$89"  Part="1" 
+F 0 "#U$89" H 6737 3688 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3688 50  0001 C CNN
+F 2 "" H 6737 3688 50  0001 C CNN
+F 3 "" H 6737 3688 50  0001 C CNN
+	1    6737 3688
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$350
+U 1 1 7B7B1477
+P 6737 3788
+AR Path="/7B7B1477" Ref="#U$350"  Part="1" 
+AR Path="/5E995E44/7B7B1477" Ref="#U$350"  Part="1" 
+F 0 "#U$350" H 6737 3788 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3788 50  0001 C CNN
+F 2 "" H 6737 3788 50  0001 C CNN
+F 3 "" H 6737 3788 50  0001 C CNN
+	1    6737 3788
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$398
+U 1 1 1F9719C4
+P 6737 3888
+AR Path="/1F9719C4" Ref="#U$398"  Part="1" 
+AR Path="/5E995E44/1F9719C4" Ref="#U$398"  Part="1" 
+F 0 "#U$398" H 6737 3888 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3888 50  0001 C CNN
+F 2 "" H 6737 3888 50  0001 C CNN
+F 3 "" H 6737 3888 50  0001 C CNN
+	1    6737 3888
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$187
+U 1 1 8FBB7F22
+P 6737 3988
+AR Path="/8FBB7F22" Ref="#U$187"  Part="1" 
+AR Path="/5E995E44/8FBB7F22" Ref="#U$187"  Part="1" 
+F 0 "#U$187" H 6737 3988 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 3988 50  0001 C CNN
+F 2 "" H 6737 3988 50  0001 C CNN
+F 3 "" H 6737 3988 50  0001 C CNN
+	1    6737 3988
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$70
+U 1 1 14315465
+P 16100 6013
+AR Path="/14315465" Ref="#U$70"  Part="1" 
+AR Path="/5E995E44/14315465" Ref="#U$70"  Part="1" 
+F 0 "#U$70" H 16100 6013 50  0001 C CNN
+F 1 "PORT" H 16100 6013 50  0001 C CNN
+F 2 "" H 16100 6013 50  0001 C CNN
+F 3 "" H 16100 6013 50  0001 C CNN
+	1    16100 6013
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:JUMP_0U JP5
+U 1 1 056852D9
+P 14287 5463
+AR Path="/056852D9" Ref="JP5"  Part="1" 
+AR Path="/5E995E44/056852D9" Ref="JP5"  Part="1" 
+F 0 "JP5" H 14187 5563 51  0000 L BNN
+F 1 "JUMP_0U" H 14187 5313 51  0000 L BNN
+F 2 "10125623A00:0805" H 14287 5463 50  0001 C CNN
+F 3 "" H 14287 5463 50  0001 C CNN
+F 4 "RC0603JR-070RL" H 14287 5463 50  0001 C CNN "manf#"
+	1    14287 5463
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:JUMP_0U JP6
+U 1 1 A21E5090
+P 14550 5463
+AR Path="/A21E5090" Ref="JP6"  Part="1" 
+AR Path="/5E995E44/A21E5090" Ref="JP6"  Part="1" 
+F 0 "JP6" H 14450 5563 51  0000 L BNN
+F 1 "JUMP_0U" H 14450 5313 51  0000 L BNN
+F 2 "10125623A00:0805" H 14550 5463 50  0001 C CNN
+F 3 "" H 14550 5463 50  0001 C CNN
+F 4 "RC0603JR-070RL" H 14550 5463 50  0001 C CNN "manf#"
+	1    14550 5463
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:K9F4G08U0M-PCB000 IC13
+U 1 1 B5257A37
+P 6400 7900
+AR Path="/B5257A37" Ref="IC13"  Part="1" 
+AR Path="/5E995E44/B5257A37" Ref="IC13"  Part="1" 
+F 0 "IC13" H 7350 8625 64  0000 L BNN
+F 1 "K9F1G08UOA-PCB0" H 7350 8537 59  0000 L BNN
+F 2 "10125623A00:TS048" H 6400 7900 50  0001 C CNN
+F 3 "" H 6400 7900 50  0001 C CNN
+F 4 "Obsolete" H 6400 7900 50  0001 C CNN "Replacement"
+F 5 "K9F1G08U0C-PIB0" H 6400 7900 50  0001 C CNN "manf#"
+F 6 "https://www.utsource.net/itm/p/914129.html" H 6400 7900 50  0001 C CNN "Supplier"
+	1    6400 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:74HCT1G04GW IC39
+U 1 1 6BD6C1A1
+P 1662 2175
+AR Path="/6BD6C1A1" Ref="IC39"  Part="1" 
+AR Path="/5E995E44/6BD6C1A1" Ref="IC39"  Part="1" 
+F 0 "IC39" H 2250 2925 64  0000 L BNN
+F 1 "74HCT04GW" H 2250 2850 59  0000 L BNN
+F 2 "10125623A00:SOT23-5" H 1662 2175 50  0001 C CNN
+F 3 "" H 1662 2175 50  0001 C CNN
+F 4 "74HCT1G04GW\\,125" H 1662 2175 50  0001 C CNN "manf#"
+	1    1662 2175
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$433
+U 1 1 69397AC8
+P 3000 1250
+AR Path="/69397AC8" Ref="#U$433"  Part="1" 
+AR Path="/5E995E44/69397AC8" Ref="#U$0433"  Part="1" 
+F 0 "#U$0433" H 3000 1250 50  0001 C CNN
+F 1 "GND" H 2925 1188 59  0000 L BNN
+F 2 "" H 3000 1250 50  0001 C CNN
+F 3 "" H 3000 1250 50  0001 C CNN
+	1    3000 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$434
+U 1 1 EB37BF0C
+P 3300 1225
+AR Path="/EB37BF0C" Ref="#U$434"  Part="1" 
+AR Path="/5E995E44/EB37BF0C" Ref="#U$0434"  Part="1" 
+F 0 "#U$0434" H 3300 1225 50  0001 C CNN
+F 1 "+5V" H 3213 1163 59  0000 L BNN
+F 2 "" H 3300 1225 50  0001 C CNN
+F 3 "" H 3300 1225 50  0001 C CNN
+	1    3300 1225
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+3,3V #U$435
+U 1 1 35824EB4
+P 6187 10500
+AR Path="/35824EB4" Ref="#U$435"  Part="1" 
+AR Path="/5E995E44/35824EB4" Ref="#U$0435"  Part="1" 
+F 0 "#U$0435" H 6187 10500 50  0001 C CNN
+F 1 "+3,3V" V 6299 10600 59  0000 L BNN
+F 2 "" H 6187 10500 50  0001 C CNN
+F 3 "" H 6187 10500 50  0001 C CNN
+	1    6187 10500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$436
+U 1 1 A762DDDB
+P 1425 8213
+AR Path="/A762DDDB" Ref="#U$436"  Part="1" 
+AR Path="/5E995E44/A762DDDB" Ref="#U$436"  Part="1" 
+F 0 "#U$436" H 1425 8213 50  0001 C CNN
+F 1 "PORT_COU" H 1425 8213 50  0001 C CNN
+F 2 "" H 1425 8213 50  0001 C CNN
+F 3 "" H 1425 8213 50  0001 C CNN
+	1    1425 8213
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$437
+U 1 1 70A3BE0B
+P 2187 7401
+AR Path="/70A3BE0B" Ref="#U$437"  Part="1" 
+AR Path="/5E995E44/70A3BE0B" Ref="#U$0437"  Part="1" 
+F 0 "#U$0437" H 2187 7401 50  0001 C CNN
+F 1 "+5V" H 2112 7326 59  0000 L BNN
+F 2 "" H 2187 7401 50  0001 C CNN
+F 3 "" H 2187 7401 50  0001 C CNN
+	1    2187 7401
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$438
+U 1 1 AC44E056
+P 1887 7400
+AR Path="/AC44E056" Ref="#U$438"  Part="1" 
+AR Path="/5E995E44/AC44E056" Ref="#U$0438"  Part="1" 
+F 0 "#U$0438" H 1887 7400 50  0001 C CNN
+F 1 "GND" H 1812 7338 59  0000 L BNN
+F 2 "" H 1887 7400 50  0001 C CNN
+F 3 "" H 1887 7400 50  0001 C CNN
+	1    1887 7400
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$8
+U 1 1 59F585D1
+P 8884 1109
+AR Path="/59F585D1" Ref="#U$8"  Part="1" 
+AR Path="/5E995E44/59F585D1" Ref="#U$08"  Part="1" 
+F 0 "#U$08" H 8884 1109 50  0001 C CNN
+F 1 "+5V" H 8809 1034 59  0000 L BNN
+F 2 "" H 8884 1109 50  0001 C CNN
+F 3 "" H 8884 1109 50  0001 C CNN
+	1    8884 1109
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:C0805 C30
+U 1 1 107458DA
+P 8584 1309
+AR Path="/107458DA" Ref="C30"  Part="1" 
+AR Path="/5E995E44/107458DA" Ref="C30"  Part="1" 
+F 0 "C30" V 8747 1365 64  0000 R TNN
+F 1 "100nF" V 8678 1359 42  0000 R TNN
+F 2 "10125623A00:C0805" H 8584 1309 50  0001 C CNN
+F 3 "" H 8584 1309 50  0001 C CNN
+F 4 "GRM155R71C104JA88J" H 8584 1309 50  0001 C CNN "manf#"
+	1    8584 1309
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:+5V #U$9
+U 1 1 9E0009A5
+P 8684 5471
+AR Path="/9E0009A5" Ref="#U$9"  Part="1" 
+AR Path="/5E995E44/9E0009A5" Ref="#U$09"  Part="1" 
+F 0 "#U$09" H 8684 5471 50  0001 C CNN
+F 1 "+5V" H 8609 5383 59  0000 L BNN
+F 2 "" H 8684 5471 50  0001 C CNN
+F 3 "" H 8684 5471 50  0001 C CNN
+	1    8684 5471
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$15
+U 1 1 37F906F1
+P 8284 4759
+AR Path="/37F906F1" Ref="#U$15"  Part="1" 
+AR Path="/5E995E44/37F906F1" Ref="#U$15"  Part="1" 
+F 0 "#U$15" H 8284 4759 50  0001 C CNN
+F 1 "PORT_COU" H 8284 4759 50  0001 C CNN
+F 2 "" H 8284 4759 50  0001 C CNN
+F 3 "" H 8284 4759 50  0001 C CNN
+	1    8284 4759
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$16
+U 1 1 7F77D23D
+P 8384 4759
+AR Path="/7F77D23D" Ref="#U$16"  Part="1" 
+AR Path="/5E995E44/7F77D23D" Ref="#U$16"  Part="1" 
+F 0 "#U$16" H 8384 4759 50  0001 C CNN
+F 1 "PORT_COU" H 8384 4759 50  0001 C CNN
+F 2 "" H 8384 4759 50  0001 C CNN
+F 3 "" H 8384 4759 50  0001 C CNN
+	1    8384 4759
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_COU #U$17
+U 1 1 1268FEE7
+P 8484 4759
+AR Path="/1268FEE7" Ref="#U$17"  Part="1" 
+AR Path="/5E995E44/1268FEE7" Ref="#U$17"  Part="1" 
+F 0 "#U$17" H 8484 4759 50  0001 C CNN
+F 1 "PORT_COU" H 8484 4759 50  0001 C CNN
+F 2 "" H 8484 4759 50  0001 C CNN
+F 3 "" H 8484 4759 50  0001 C CNN
+	1    8484 4759
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:GND #U$27
+U 1 1 88B45EA1
+P 8284 1109
+AR Path="/88B45EA1" Ref="#U$27"  Part="1" 
+AR Path="/5E995E44/88B45EA1" Ref="#U$027"  Part="1" 
+F 0 "#U$027" H 8284 1109 50  0001 C CNN
+F 1 "GND" H 8209 1046 59  0000 L BNN
+F 2 "" H 8284 1109 50  0001 C CNN
+F 3 "" H 8284 1109 50  0001 C CNN
+	1    8284 1109
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:29F800 IC7
+U 1 1 270F9871
+P 8584 3109
+AR Path="/270F9871" Ref="IC7"  Part="1" 
+AR Path="/5E995E44/270F9871" Ref="IC7"  Part="1" 
+F 0 "IC7" H 8947 4722 127 0000 L BNN
+F 1 "Am29F400-EC" H 8247 3209 127 0001 L BNN
+F 2 "10125623A00:TS048" H 8584 3109 50  0001 C CNN
+F 3 "" H 8584 3109 50  0001 C CNN
+F 4 "MX29F400CBTI-70G" H 8584 3109 50  0001 C CNN "manf#"
+	1    8584 3109
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$81
+U 1 1 0AC47A44
+P 8984 5159
+AR Path="/0AC47A44" Ref="#U$81"  Part="1" 
+AR Path="/5E995E44/0AC47A44" Ref="#U$81"  Part="1" 
+F 0 "#U$81" H 8984 5159 50  0001 C CNN
+F 1 "PORT" H 8984 5159 50  0001 C CNN
+F 2 "" H 8984 5159 50  0001 C CNN
+F 3 "" H 8984 5159 50  0001 C CNN
+	1    8984 5159
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$351
+U 1 1 8DD9075A
+P 8584 4509
+AR Path="/8DD9075A" Ref="#U$351"  Part="1" 
+AR Path="/5E995E44/8DD9075A" Ref="#U$351"  Part="1" 
+F 0 "#U$351" H 8584 4509 50  0001 C CNN
+F 1 "PORT" H 8584 4509 50  0001 C CNN
+F 2 "" H 8584 4509 50  0001 C CNN
+F 3 "" H 8584 4509 50  0001 C CNN
+	1    8584 4509
+	0    1    1    0   
+$EndComp
+$Comp
+L CPU-eagle-import:74HCT1G08GW IC38
+U 1 1 E1DA1C65
+P 2800 2688
+AR Path="/E1DA1C65" Ref="IC38"  Part="1" 
+AR Path="/5E995E44/E1DA1C65" Ref="IC38"  Part="1" 
+F 0 "IC38" H 3350 3438 64  0000 L BNN
+F 1 "74HCT1G08GW" H 3337 3363 59  0000 L BNN
+F 2 "10125623A00:SOT23-5" H 2800 2688 50  0001 C CNN
+F 3 "" H 2800 2688 50  0001 C CNN
+F 4 "74HCT1G08GW\\,125" H 2800 2688 50  0001 C CNN "manf#"
+	1    2800 2688
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:74HCT1G32GW IC5
+U 1 1 E8297B24
+P 1687 8363
+AR Path="/E8297B24" Ref="IC5"  Part="1" 
+AR Path="/5E995E44/E8297B24" Ref="IC5"  Part="1" 
+F 0 "IC5" H 2237 9126 64  0000 L BNN
+F 1 "74HCT1G32GW" H 2237 9051 59  0000 L BNN
+F 2 "10125623A00:SOT23-5" H 1687 8363 50  0001 C CNN
+F 3 "" H 1687 8363 50  0001 C CNN
+F 4 "74HCT1G32GW\\,125" H 1687 8363 50  0001 C CNN "manf#"
+	1    1687 8363
+	1    0    0    -1  
+$EndComp
+$Comp
+L CPU-eagle-import:PORT #U$181
+U 1 1 FC0AF1D5
+P 1675 8900
+AR Path="/FC0AF1D5" Ref="#U$181"  Part="1" 
+AR Path="/5E995E44/FC0AF1D5" Ref="#U$181"  Part="1" 
+F 0 "#U$181" H 1675 8900 50  0001 C CNN
+F 1 "PORT" H 1675 8900 50  0001 C CNN
+F 2 "" H 1675 8900 50  0001 C CNN
+F 3 "" H 1675 8900 50  0001 C CNN
+	1    1675 8900
+	-1   0    0    1   
+$EndComp
+$Comp
+L CPU-eagle-import:PORT_LONG #U$492
+U 1 1 D085DBA1
+P 6737 4088
+AR Path="/D085DBA1" Ref="#U$492"  Part="1" 
+AR Path="/5E995E44/D085DBA1" Ref="#U$492"  Part="1" 
+F 0 "#U$492" H 6737 4088 50  0001 C CNN
+F 1 "PORT_LONG" H 6737 4088 50  0001 C CNN
+F 2 "" H 6737 4088 50  0001 C CNN
+F 3 "" H 6737 4088 50  0001 C CNN
+	1    6737 4088
+	-1   0    0    1   
+$EndComp
+Wire Notes Line
+	10600 7301 10600 7175
+Wire Notes Line
+	10600 7175 10699 7175
+Wire Notes Line
+	10699 7175 10699 7301
+Wire Notes Line
+	10699 7301 10600 7301
+Wire Notes Line
+	8187 10932 8187 6232
+Wire Notes Line
+	8187 6232 1012 6232
+Wire Notes Line
+	1012 6232 1012 10932
+Wire Notes Line
+	1012 10932 8187 10932
+Wire Notes Line
+	1000 5782 6787 5782
+Wire Notes Line
+	6787 744  1000 744 
+Wire Notes Line
+	1000 744  1000 5782
+Wire Notes Line
+	6787 5782 6787 744 
+Wire Notes Line
+	10500 738  16150 738 
+Wire Notes Line
+	16150 738  16150 7163
+Wire Notes Line
+	16150 7163 13075 7163
+Wire Notes Line
+	13075 7163 13075 5800
+Wire Notes Line
+	13075 5800 10500 5800
+Wire Notes Line
+	10500 5800 10500 738 
+Wire Notes Line
+	14675 4988 16125 4988
+Wire Notes Line
+	16125 4988 16125 5825
+Wire Notes Line
+	16125 5825 14675 5825
+Wire Notes Line
+	14675 5825 14675 4988
+Wire Notes Line
+	6275 3125 6300 3150
+Wire Notes Line
+	6300 3150 6300 3200
+Wire Notes Line
+	6300 3200 6325 3225
+Wire Notes Line
+	6325 3225 6300 3250
+Wire Notes Line
+	6300 3250 6300 3288
+Wire Notes Line
+	6300 3288 6275 3313
+Wire Notes Line
+	8531 5957 11868 5957
+Wire Notes Line
+	11868 5957 11868 8132
+Wire Notes Line
+	11868 8132 8531 8132
+Wire Notes Line
+	8531 8132 8531 5957
+Wire Notes Line
+	8900 7075 8887 7075
+Wire Notes Line
+	8887 7075 8862 7100
+Wire Notes Line
+	8862 7100 8862 7438
+Wire Notes Line
+	8862 7438 8837 7463
+Wire Notes Line
+	8837 7463 8837 7475
+Wire Notes Line
+	8837 7475 8862 7500
+Wire Notes Line
+	8862 7500 8862 7838
+Wire Notes Line
+	8862 7838 8900 7875
+Wire Notes Line
+	7329 744  10445 742 
+Wire Notes Line
+	7329 744  7322 5796
+Wire Notes Line
+	7322 5796 10447 5796
+Wire Notes Line
+	10447 5796 10445 742 
+Text Notes 1112 6444 0    56   ~ 0
+MONITORING MEMORY
+Text Notes 1087 882  0    56   ~ 0
+16 PIN PORT OUT
+Text Notes 10562 875  0    56   ~ 0
+UART FONCTION
+Text Notes 14712 5150 0    56   ~ 0
+SJ1 = on, SJ2 = off,
+Text Notes 14712 5288 0    56   ~ 0
+if TX_RAP_AL between 0V...3.3V
+Text Notes 14700 5538 0    56   ~ 0
+SJ1 = off, SJ2 = on,
+Text Notes 14700 5675 0    56   ~ 0
+if TX_RAP_AL between 0V...5V
+Text Notes 8799 7625 0    47   ~ 0
+BUS SPI
+Text Notes 8618 6107 0    56   ~ 0
+SETTINGS MEMORY
+Text Notes 7372 884  0    56   ~ 0
+EVENT MEMORY
+Text Notes 8947 1571 0    47   ~ 0
+29F400-70EC
+Wire Bus Line
+	11262 2613 11262 3038
+Wire Bus Line
+	11262 3150 11262 4275
+Wire Bus Line
+	2837 7700 2837 8500
+Wire Bus Line
+	3625 2788 3625 4488
+Wire Bus Line
+	9834 1959 9834 3709
+Wire Bus Line
+	7434 1709 7434 3734
+$EndSCHEMATC
